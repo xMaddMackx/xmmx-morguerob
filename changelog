@@ -1,1 +1,4 @@
-No changes at the moment.
+- Optimized code. Now resmons at 0.00 when idle.
+- Added support for my new required dependency xmmx_bridge - version 1.6 or newer.
+- Fixed the xmmx_minigame export if using the xmmx_circlesgame as the minigame.
+- Added option to limit amt of rewards given from RewardItems table.
